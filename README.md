@@ -5,7 +5,7 @@ Container images containing [esp-rs](https://github.com/esp-rs) related tooling,
 Created as a result of much annoyance trying to get the ESP IDF to build in Nix and (to a much lesser extent) the fact that some tools were not yet packaged.
 
 Included is:
-    - clang
-    - Python + venv
-    - [espup](https://github.com/esp-rs/espup)
-    - [ldproxy](https://github.com/esp-rs/embuild/tree/master/ldproxy)
+  - clang
+  - Python + venv
+  - [espup](https://github.com/esp-rs/espup)
+  - [ldproxy](https://github.com/esp-rs/embuild/tree/master/ldproxy)
